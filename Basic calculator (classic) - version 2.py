@@ -1,6 +1,7 @@
 import tkinter
 import tkinter.font as font
-# Creating entry widget
+
+# Starting my code and making a window of tkinter
 
 window = tkinter.Tk() # Creating a tkinter window
 window.resizable(0, 0)
